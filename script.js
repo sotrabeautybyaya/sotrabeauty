@@ -436,95 +436,157 @@ const translations = {
     en: {
 
         home: "Home",
+
         accessoriesBoxes: "Accessories Boxes",
+
         cosmeticsBoxes: "Cosmetics Boxes",
+
         hijabBoxes: "Hijab Boxes",
+
         aboutUs: "About Us",
+
         contact: "Contact",
 
-        followInstagram: "FOLLOW US ON INSTAGRAM",
 
-        collection: "OUR COLLECTION",
-        accessoriesTitle: "Accessories Boxes",
+        followInstagram:
+            "FOLLOW US ON INSTAGRAM",
 
-        discover: "DISCOVER",
-        accessoriesCollection: "Our Accessories Boxes",
-        cosmeticsCollection: "Our Cosmetics Boxes",
-        hijabCollection: "Our Hijab Boxes",
+
+        collection:
+            "OUR COLLECTION",
+
+
+        accessoriesTitle:
+            "Accessories Boxes",
+
+
+        discover:
+            "DISCOVER",
+
+
+        accessoriesCollection:
+            "Our Accessories Boxes",
+
+
+        cosmeticsCollection:
+            "Our Cosmetics Boxes",
+
+
+        hijabCollection:
+            "Our Hijab Boxes",
+
 
         accessoriesIntro:
             "Discover our carefully selected accessories boxes, created to bring together beautiful pieces that complement your style.",
 
-        simpleEasy: "SIMPLE & EASY",
-        howToOrder: "How To Order",
 
-        step1Title: "Choose Your Box",
+        simpleEasy:
+            "SIMPLE & EASY",
+
+
+        howToOrder:
+            "How To Order",
+
+
+        step1Title:
+            "Choose Your Box",
+
+
         step1Text:
             "Explore our collection and choose the box you love.",
 
-        step2Title: "Contact Aya",
+
+        step2Title:
+            "Contact Aya",
+
+
         step2Text:
             "Send us a message through Instagram to place your order.",
 
-        step3Title: "Enjoy Your Box",
+
+        step3Title:
+            "Enjoy Your Box",
+
+
         step3Text:
             "Receive your beautiful Sotra Beauty box and enjoy every detail.",
 
-        aboutTitle: "ABOUT SOTRA BEAUTY",
+
+        aboutTitle:
+            "ABOUT SOTRA BEAUTY",
+
 
         aboutHeading:
             "Elegance In Every Detail.",
 
+
         aboutText1:
             "Sotra Beauty by Aya was created with one simple idea: bringing beautiful feminine pieces together in carefully selected boxes.",
+
 
         aboutText2:
             "Every box is prepared with attention to detail, style and elegance.",
 
+
         contactSmall:
             "WE WOULD LOVE TO HEAR FROM YOU",
+
 
         contactTitle:
             "Get In Touch",
 
+
         contactText:
             "Have a question about one of our boxes? Contact Aya directly through Instagram.",
+
 
         instagram:
             "INSTAGRAM",
 
+
         footerText:
             "Beauty, elegance & little details made with love.",
+
 
         featured:
             "FEATURED",
 
+
         box:
             "BOX",
+
 
         transferFee:
             "transfer fee",
 
+
         total:
             "Total",
+
 
         viewDetails:
             "VIEW DETAILS",
 
+
         orderInstagram:
             "ORDER ON INSTAGRAM",
+
 
         whatsInside:
             "WHAT'S INSIDE",
 
+
         boxPrice:
             "Box price",
+
 
         transferFeeLabel:
             "Transfer fee",
 
+
         totalLabel:
             "TOTAL",
+
 
         close:
             "Close"
@@ -534,96 +596,164 @@ const translations = {
 
     fr: {
 
-        home: "Accueil",
-        accessoriesBoxes: "Box Accessoires",
-        cosmeticsBoxes: "Box Cosmétiques",
-        hijabBoxes: "Box Hijabs",
-        aboutUs: "À propos",
-        contact: "Contact",
+        home:
+            "Accueil",
 
-        followInstagram: "SUIVEZ-NOUS SUR INSTAGRAM",
+        accessoriesBoxes:
+            "Box Accessoires",
 
-        collection: "NOTRE COLLECTION",
-        accessoriesTitle: "Box Accessoires",
+        cosmeticsBoxes:
+            "Box Cosmétiques",
 
-        discover: "DÉCOUVREZ",
-        accessoriesCollection: "Nos Box Accessoires",
-        cosmeticsCollection: "Nos Box Cosmétiques",
-        hijabCollection: "Nos Box Hijabs",
+        hijabBoxes:
+            "Box Hijabs",
+
+        aboutUs:
+            "À propos",
+
+        contact:
+            "Contact",
+
+
+        followInstagram:
+            "SUIVEZ-NOUS SUR INSTAGRAM",
+
+
+        collection:
+            "NOTRE COLLECTION",
+
+
+        accessoriesTitle:
+            "Box Accessoires",
+
+
+        discover:
+            "DÉCOUVREZ",
+
+
+        accessoriesCollection:
+            "Nos Box Accessoires",
+
+
+        cosmeticsCollection:
+            "Nos Box Cosmétiques",
+
+
+        hijabCollection:
+            "Nos Box Hijabs",
+
 
         accessoriesIntro:
             "Découvrez nos box d'accessoires soigneusement sélectionnées, créées pour réunir de magnifiques pièces qui complètent votre style.",
 
-        simpleEasy: "SIMPLE & FACILE",
-        howToOrder: "Comment Commander",
 
-        step1Title: "Choisissez Votre Box",
+        simpleEasy:
+            "SIMPLE & FACILE",
+
+
+        howToOrder:
+            "Comment Commander",
+
+
+        step1Title:
+            "Choisissez Votre Box",
+
+
         step1Text:
             "Découvrez notre collection et choisissez la box qui vous plaît.",
 
-        step2Title: "Contactez Aya",
+
+        step2Title:
+            "Contactez Aya",
+
+
         step2Text:
             "Envoyez-nous un message sur Instagram pour passer votre commande.",
 
-        step3Title: "Profitez de Votre Box",
+
+        step3Title:
+            "Profitez de Votre Box",
+
+
         step3Text:
             "Recevez votre magnifique box Sotra Beauty et profitez de chaque détail.",
 
-        aboutTitle: "À PROPOS DE SOTRA BEAUTY",
+
+        aboutTitle:
+            "À PROPOS DE SOTRA BEAUTY",
+
 
         aboutHeading:
             "L'élégance dans chaque détail.",
 
+
         aboutText1:
             "Sotra Beauty by Aya est née d'une idée simple : réunir de magnifiques pièces féminines dans des box soigneusement sélectionnées.",
+
 
         aboutText2:
             "Chaque box est préparée avec attention, style et élégance.",
 
+
         contactSmall:
             "NOUS SERIONS RAVIS DE VOUS ENTENDRE",
+
 
         contactTitle:
             "Contactez-Nous",
 
+
         contactText:
             "Une question concernant l'une de nos box ? Contactez Aya directement sur Instagram.",
+
 
         instagram:
             "INSTAGRAM",
 
+
         footerText:
             "Beauté, élégance et petits détails préparés avec amour.",
+
 
         featured:
             "À LA UNE",
 
+
         box:
             "BOX",
+
 
         transferFee:
             "frais de livraison",
 
+
         total:
             "Total",
+
 
         viewDetails:
             "VOIR LES DÉTAILS",
 
+
         orderInstagram:
             "COMMANDER SUR INSTAGRAM",
+
 
         whatsInside:
             "CE QUE CONTIENT LA BOX",
 
+
         boxPrice:
             "Prix de la box",
+
 
         transferFeeLabel:
             "Frais de livraison",
 
+
         totalLabel:
             "TOTAL",
+
 
         close:
             "Fermer"
@@ -633,98 +763,164 @@ const translations = {
 
     ar: {
 
-        home: "الرئيسية",
-        accessoriesBoxes: "علب الإكسسوارات",
-        cosmeticsBoxes: "علب مستحضرات التجميل",
-        hijabBoxes: "علب الحجاب",
-        aboutUs: "من نحن",
-        contact: "اتصل بنا",
+        home:
+            "الرئيسية",
 
-        followInstagram: "تابعونا على إنستغرام",
+        accessoriesBoxes:
+            "علب الإكسسوارات",
 
-        collection: "مجموعتنا",
-        accessoriesTitle: "علب الإكسسوارات",
+        cosmeticsBoxes:
+            "علب مستحضرات التجميل",
 
-        discover: "اكتشفي",
-        accessoriesCollection: "علب الإكسسوارات لدينا",
-        cosmeticsCollection: "علب مستحضرات التجميل لدينا",
+        hijabBoxes:
+            "علب الحجاب",
 
-           cosmeticsCollection: "علب مستحضرات التجميل لدينا",
-        hijabCollection: "علب الحجاب لدينا",
+        aboutUs:
+            "من نحن",
+
+        contact:
+            "اتصل بنا",
+
+
+        followInstagram:
+            "تابعونا على إنستغرام",
+
+
+        collection:
+            "مجموعتنا",
+
+
+        accessoriesTitle:
+            "علب الإكسسوارات",
+
+
+        discover:
+            "اكتشفي",
+
+
+        accessoriesCollection:
+            "علب الإكسسوارات لدينا",
+
+
+        cosmeticsCollection:
+            "علب مستحضرات التجميل لدينا",
+
+
+        hijabCollection:
+            "علب الحجاب لدينا",
+
 
         accessoriesIntro:
-            "اكتشفي علب الإكسسوارات المختارة بعناية، والمصممة لتجمع قطعًا جميلة تكمل أناقتك.",
+            "اكتشفي علب الإكسسوارات المختارة بعناية، والتي تجمع قطعاً جميلة لتكمّل أناقتك.",
 
-        simpleEasy: "بسيط وسهل",
-        howToOrder: "كيفية الطلب",
 
-        step1Title: "اختاري علبتك",
+        simpleEasy:
+            "بسيط وسهل",
+
+
+        howToOrder:
+            "كيفية الطلب",
+
+
+        step1Title:
+            "اختاري علبتك",
+
+
         step1Text:
-            "تصفحي مجموعتنا واختاري العلبة التي تحبينها.",
+            "اكتشفي مجموعتنا واختاري العلبة التي تحبينها.",
 
-        step2Title: "تواصلي مع آية",
+
+        step2Title:
+            "تواصلي مع Aya",
+
+
         step2Text:
-            "أرسلي لنا رسالة عبر إنستغرام لتأكيد طلبك.",
+            "أرسلي لنا رسالة عبر إنستغرام لإتمام طلبك.",
 
-        step3Title: "استمتعي بعلبتك",
+
+        step3Title:
+            "استمتعي بعلبتك",
+
+
         step3Text:
-            "استلمي علبة Sotra Beauty الجميلة واستمتعي بكل تفاصيلها.",
+            "استلمي علبة Sotra Beauty الخاصة بك واستمتعي بكل تفاصيلها.",
 
-        aboutTitle: "عن SOTRA BEAUTY",
+
+        aboutTitle:
+            "عن SOTRA BEAUTY",
+
 
         aboutHeading:
             "الأناقة في كل التفاصيل.",
 
+
         aboutText1:
-            "نشأت Sotra Beauty by Aya من فكرة بسيطة: جمع قطع نسائية جميلة في علب مختارة بعناية.",
+            "تأسست Sotra Beauty by Aya بفكرة بسيطة: جمع قطع نسائية جميلة في علب مختارة بعناية.",
+
 
         aboutText2:
-            "يتم تجهيز كل علبة بعناية واهتمام بالتفاصيل والأناقة.",
+            "يتم إعداد كل علبة بعناية واهتمام بالتفاصيل والأناقة.",
+
 
         contactSmall:
             "يسعدنا أن نسمع منك",
 
+
         contactTitle:
             "تواصلي معنا",
 
+
         contactText:
-            "لديك سؤال حول إحدى علبنا؟ تواصلي مباشرة مع آية عبر إنستغرام.",
+            "لديك سؤال حول إحدى علبنا؟ تواصلي مع Aya مباشرة عبر إنستغرام.",
+
 
         instagram:
             "إنستغرام",
 
+
         footerText:
-            "جمال وأناقة وتفاصيل صغيرة مصنوعة بكل حب.",
+            "الجمال والأناقة وأجمل التفاصيل المصنوعة بحب.",
+
 
         featured:
-            "مميزة",
+            "مميز",
+
 
         box:
             "علبة",
 
+
         transferFee:
-            "رسوم التوصيل",
+            "مصاريف التوصيل",
+
 
         total:
             "المجموع",
 
+
         viewDetails:
             "عرض التفاصيل",
 
+
         orderInstagram:
-            "الطلب عبر إنستغرام",
+            "اطلبي عبر إنستغرام",
+
 
         whatsInside:
             "ماذا تحتوي العلبة؟",
 
+
         boxPrice:
             "سعر العلبة",
 
+
         transferFeeLabel:
-            "رسوم التوصيل",
+            "مصاريف التوصيل",
+
 
         totalLabel:
             "المجموع",
+
 
         close:
             "إغلاق"
@@ -732,8 +928,6 @@ const translations = {
     }
 
 };
-
-
 /* =========================================
    PRODUCT TRANSLATIONS
 ========================================= */
@@ -745,11 +939,11 @@ const productTranslations = {
         1: {
             name: "Accessorie Box 01",
             description:
-                "Une belle sélection de pièces féminines soigneusement choisies par Aya.",
+                "Une magnifique sélection de pièces féminines soigneusement choisies par Aya.",
             items: [
-                "De magnifiques accessoires",
-                "Des bijoux élégants",
-                "Des détails soigneusement sélectionnés"
+                "Magnifiques accessoires",
+                "Bijoux élégants",
+                "Détails soigneusement sélectionnés"
             ]
         },
 
@@ -758,31 +952,31 @@ const productTranslations = {
             description:
                 "Une collection soigneusement sélectionnée pour faire sentir chaque femme spéciale.",
             items: [
-                "De magnifiques accessoires",
-                "Des bijoux élégants",
-                "Des détails soigneusement sélectionnés"
+                "Magnifiques accessoires",
+                "Bijoux élégants",
+                "Détails soigneusement sélectionnés"
             ]
         },
 
         3: {
             name: "Accessorie Box 03",
             description:
-                "Des pièces élégantes et de beaux détails réunis dans une box spéciale.",
+                "Des pièces élégantes et de magnifiques détails réunis dans une box spéciale.",
             items: [
-                "De magnifiques accessoires",
-                "Des détails élégants",
-                "Des pièces soigneusement sélectionnées"
+                "Magnifiques accessoires",
+                "Détails élégants",
+                "Pièces soigneusement sélectionnées"
             ]
         },
 
         4: {
             name: "Accessorie Box 04",
             description:
-                "Une combinaison spéciale de belles pièces conçues pour toutes les occasions.",
+                "Une combinaison spéciale de magnifiques pièces adaptée à toutes les occasions.",
             items: [
-                "De magnifiques accessoires",
-                "Des détails élégants",
-                "Des pièces soigneusement sélectionnées"
+                "Magnifiques accessoires",
+                "Détails élégants",
+                "Pièces soigneusement sélectionnées"
             ]
         },
 
@@ -791,31 +985,31 @@ const productTranslations = {
             description:
                 "Une belle collection de pièces féminines sélectionnées avec amour et attention aux détails.",
             items: [
-                "De magnifiques accessoires",
-                "Des détails élégants",
-                "Des pièces soigneusement sélectionnées"
+                "Magnifiques accessoires",
+                "Détails élégants",
+                "Pièces soigneusement sélectionnées"
             ]
         },
 
         6: {
             name: "Accessorie Box 06",
             description:
-                "Une box beauté spéciale combinant élégance, style et de magnifiques petits détails.",
+                "Une box spéciale combinant élégance, style et de magnifiques petits détails.",
             items: [
-                "De magnifiques accessoires",
-                "Des détails élégants",
-                "Des pièces soigneusement sélectionnées"
+                "Magnifiques accessoires",
+                "Détails élégants",
+                "Pièces soigneusement sélectionnées"
             ]
         },
 
         7: {
             name: "Accessorie Box 07",
             description:
-                "Une belle sélection de pièces féminines soigneusement choisies par Aya.",
+                "Une magnifique sélection de pièces féminines soigneusement choisies par Aya.",
             items: [
-                "De magnifiques accessoires",
-                "Des détails élégants",
-                "Des pièces soigneusement sélectionnées"
+                "Magnifiques accessoires",
+                "Détails élégants",
+                "Pièces soigneusement sélectionnées"
             ]
         },
 
@@ -824,12 +1018,11 @@ const productTranslations = {
             description:
                 "Une belle collection de pièces féminines sélectionnées avec amour et attention aux détails.",
             items: [
-                "De magnifiques accessoires",
-                "Des détails élégants",
-                "Des pièces soigneusement sélectionnées"
+                "Magnifiques accessoires",
+                "Détails élégants",
+                "Pièces soigneusement sélectionnées"
             ]
         },
-
 
         12: {
             name: "Trio Nude",
@@ -837,7 +1030,7 @@ const productTranslations = {
                 "Un trio intemporel de tons nude doux, élégant et naturellement chic.",
             items: [
                 "Hijabs élégants",
-                "Nuances nude douces",
+                "Tons nude doux",
                 "Style classique et raffiné"
             ]
         },
@@ -845,10 +1038,10 @@ const productTranslations = {
         13: {
             name: "Mocha Nude",
             description:
-                "Des tons mocha chaleureux associés à une élégance intemporelle pour un look raffiné.",
+                "Des tons moka chaleureux associés à une élégance intemporelle pour un look raffiné.",
             items: [
                 "Hijabs élégants",
-                "Nuances mocha et nude",
+                "Tons moka et nude",
                 "Style chic et sophistiqué"
             ]
         },
@@ -856,10 +1049,10 @@ const productTranslations = {
         14: {
             name: "Blush Mix",
             description:
-                "Un délicat mélange de magnifiques tons blush, parfait pour une touche douce et féminine.",
+                "Un mélange délicat de magnifiques tons blush, parfait pour une touche douce et féminine.",
             items: [
                 "Hijabs élégants",
-                "Nuances blush douces",
+                "Tons blush doux",
                 "Style féminin et gracieux"
             ]
         },
@@ -867,14 +1060,13 @@ const productTranslations = {
         15: {
             name: "Nuances Marbrées",
             description:
-                "Une collection sophistiquée de nuances marbrées où l'élégance rencontre la beauté naturelle.",
+                "Une collection sophistiquée de tons marbrés où l'élégance rencontre une beauté naturelle.",
             items: [
                 "Hijabs élégants",
-                "Nuances marbrées",
+                "Tons marbrés",
                 "Style classique et luxueux"
             ]
         },
-
 
         16: {
             name: "New Pack 1",
@@ -928,7 +1120,7 @@ const productTranslations = {
         1: {
             name: "Accessorie Box 01",
             description:
-                "مجموعة جميلة من القطع الأنثوية المختارة بعناية من طرف آية.",
+                "مجموعة جميلة من القطع النسائية المختارة بعناية من طرف Aya.",
             items: [
                 "إكسسوارات جميلة",
                 "قطع مجوهرات أنيقة",
@@ -972,7 +1164,7 @@ const productTranslations = {
         5: {
             name: "Accessorie Box 05",
             description:
-                "مجموعة جميلة من القطع الأنثوية المختارة بحب واهتمام بالتفاصيل.",
+                "مجموعة جميلة من القطع النسائية المختارة بحب واهتمام بالتفاصيل.",
             items: [
                 "إكسسوارات جميلة",
                 "تفاصيل أنيقة",
@@ -994,7 +1186,7 @@ const productTranslations = {
         7: {
             name: "Accessorie Box 07",
             description:
-                "مجموعة جميلة من القطع الأنثوية المختارة بعناية من طرف آية.",
+                "مجموعة جميلة من القطع النسائية المختارة بعناية من طرف Aya.",
             items: [
                 "إكسسوارات جميلة",
                 "تفاصيل أنيقة",
@@ -1005,7 +1197,7 @@ const productTranslations = {
         8: {
             name: "Accessorie Box 08",
             description:
-                "مجموعة جميلة من القطع الأنثوية المختارة بحب واهتمام بالتفاصيل.",
+                "مجموعة جميلة من القطع النسائية المختارة بحب واهتمام بالتفاصيل.",
             items: [
                 "إكسسوارات جميلة",
                 "تفاصيل أنيقة",
@@ -1013,14 +1205,13 @@ const productTranslations = {
             ]
         },
 
-
         12: {
             name: "Trio Nude",
             description:
-                "مجموعة ثلاثية بألوان نود ناعمة وخالدة، أنيقة وراقية.",
+                "ثلاثة ألوان نود ناعمة وأنيقة تمنحك إطلالة راقية وسهلة.",
             items: [
                 "حجابات أنيقة",
-                "درجات نود ناعمة",
+                "ألوان نود ناعمة",
                 "أسلوب كلاسيكي وراقي"
             ]
         },
@@ -1028,10 +1219,10 @@ const productTranslations = {
         13: {
             name: "Mocha Nude",
             description:
-                "درجات موكا دافئة ممزوجة بأناقة خالدة لإطلالة راقية.",
+                "ألوان موكا دافئة ممزوجة بأناقة خالدة لإطلالة راقية.",
             items: [
                 "حجابات أنيقة",
-                "درجات موكا ونود",
+                "ألوان موكا ونود",
                 "أسلوب أنيق ومتطور"
             ]
         },
@@ -1039,10 +1230,10 @@ const productTranslations = {
         14: {
             name: "Blush Mix",
             description:
-                "مزيج رقيق من درجات البلاش الجميلة، مثالي لإضافة لمسة ناعمة وأنثوية.",
+                "مزيج رقيق من ألوان البلاش الجميلة، مثالي لإطلالة ناعمة وأنثوية.",
             items: [
                 "حجابات أنيقة",
-                "درجات بلاش ناعمة",
+                "ألوان بلاش ناعمة",
                 "أسلوب أنثوي ورقيق"
             ]
         },
@@ -1050,14 +1241,13 @@ const productTranslations = {
         15: {
             name: "Nuances Marbrées",
             description:
-                "مجموعة راقية من الدرجات الرخامية تجمع بين الأناقة والجمال الطبيعي.",
+                "مجموعة راقية من الألوان الرخامية تجمع بين الأناقة والجمال الطبيعي.",
             items: [
                 "حجابات أنيقة",
-                "درجات رخامية",
+                "ألوان رخامية",
                 "أسلوب كلاسيكي وفاخر"
             ]
         },
-
 
         16: {
             name: "New Pack 1",
@@ -1114,239 +1304,179 @@ const productTranslations = {
 
 let currentLanguage =
     localStorage.getItem("sotraLanguage") || "en";
+
+
 /* =========================================
-   PRODUCT HELPERS
+   GET TRANSLATION
 ========================================= */
 
-function getProductTranslation(productId) {
+function getText(key) {
+
+    return (
+        translations[currentLanguage]?.[key] ||
+        translations.en[key] ||
+        key
+    );
+
+}
+
+
+/* =========================================
+   GET PRODUCT TRANSLATION
+========================================= */
+
+function getProductTranslation(box) {
+
+    if (currentLanguage === "en") {
+
+        return {
+            name: box.name,
+            description: box.description,
+            items: box.items
+        };
+
+    }
+
+
+    const languageProducts =
+        productTranslations[currentLanguage];
 
     if (
-        currentLanguage !== "en" &&
-        productTranslations[currentLanguage] &&
-        productTranslations[currentLanguage][productId]
+        languageProducts &&
+        languageProducts[box.id]
     ) {
-        return productTranslations[currentLanguage][productId];
+
+        return languageProducts[box.id];
+
     }
 
-    return null;
-}
 
+    return {
+        name: box.name,
+        description: box.description,
+        items: box.items
+    };
 
-function getProductName(product) {
-
-    const translation =
-        getProductTranslation(product.id);
-
-    return translation && translation.name
-        ? translation.name
-        : product.name;
-}
-
-
-function getProductDescription(product) {
-
-    const translation =
-        getProductTranslation(product.id);
-
-    return translation && translation.description
-        ? translation.description
-        : product.description;
-}
-
-
-function getProductItems(product) {
-
-    const translation =
-        getProductTranslation(product.id);
-
-    return translation && translation.items
-        ? translation.items
-        : product.items;
 }
 
 
 /* =========================================
-   PRODUCT COLLECTIONS
+   CREATE PRODUCT CARD
 ========================================= */
 
-function getProductsByCategory(category) {
+function createProductCard(box) {
 
-    if (category === "accessories") {
-        return accessoryBoxes;
-    }
-
-    if (category === "cosmetics") {
-        return cosmeticBoxes;
-    }
-
-    if (category === "hijab") {
-        return hijabBoxes;
-    }
-
-    return allBoxes;
-}
-
-
-/* =========================================
-   PRODUCT IMAGE SLIDESHOW
-========================================= */
-
-const slideshowIntervals = {};
-
-
-function startProductSlideshow(product) {
-
-    if (!product.images || product.images.length <= 1) {
-        return;
-    }
-
-    const imageElement =
-        document.querySelector(
-            `[data-product-image="${product.id}"]`
-        );
-
-    if (!imageElement) {
-        return;
-    }
-
-    let currentImage = 0;
-
-    slideshowIntervals[product.id] =
-        setInterval(() => {
-
-            currentImage++;
-
-            if (currentImage >= product.images.length) {
-                currentImage = 0;
-            }
-
-            imageElement.src =
-                product.images[currentImage];
-
-        }, 5000);
-}
-
-
-function stopProductSlideshow(productId) {
-
-    if (slideshowIntervals[productId]) {
-
-        clearInterval(
-            slideshowIntervals[productId]
-        );
-
-        delete slideshowIntervals[productId];
-    }
-}
-
-
-/* =========================================
-   PRODUCT CARD
-========================================= */
-
-function createProductCard(product) {
-
-    const productName =
-        getProductName(product);
-
-    const productDescription =
-        getProductDescription(product);
-
-    const productImage =
-        product.images && product.images.length
-            ? product.images[0]
-            : "";
-
-    const totalPrice =
-        product.priceNumber + transferFee;
+    const translated =
+        getProductTranslation(box);
 
     const card =
         document.createElement("div");
 
-    card.className =
-        "product-card";
+    card.classList.add("box-card");
 
-    card.dataset.productId =
-        product.id;
+
+    /* FEATURED */
+
+    let featuredLabel = "";
+
+    if (box.featured) {
+
+        featuredLabel = `
+            <div class="featured-label">
+                ${getText("featured")}
+            </div>
+        `;
+
+    }
+
+
+    /* IMAGE */
+
+    const firstImage =
+        box.images[0];
+
+
+    /* TOTAL */
+
+    const totalPrice =
+        box.priceNumber + transferFee;
+
+
+    /* CARD */
 
     card.innerHTML = `
 
-        <div class="product-image-wrapper">
+        <div class="box-image">
 
-            ${
-                product.featured
-                    ? `
-                        <span class="featured-badge">
-                            ${translations[currentLanguage].featured}
-                        </span>
-                      `
-                    : ""
-            }
+            ${featuredLabel}
 
             <img
-                src="${productImage}"
-                alt="${productName}"
-                class="product-image"
-                data-product-image="${product.id}"
+                class="box-product-image"
+                src="${firstImage}"
+                alt="${translated.name}"
             >
 
         </div>
 
 
-        <div class="product-info">
+        <div class="box-info">
 
-            <h3>
-                ${productName}
-            </h3>
-
-            <p class="product-description">
-                ${productDescription}
+            <p class="box-number">
+                ${getText("box")}
+                ${String(box.id).padStart(2, "0")}
             </p>
 
 
-            <div class="product-price">
-
-                <span>
-                    ${product.price}
-                </span>
-
-            </div>
+            <h3>
+                ${translated.name}
+            </h3>
 
 
-            <div class="transfer-fee">
-
-                + ${transferFee} DT
-                ${translations[currentLanguage].transferFee}
-
-            </div>
+            <p class="box-description">
+                ${translated.description}
+            </p>
 
 
-            <div class="product-total">
+            <div class="box-bottom">
 
-                ${translations[currentLanguage].total}:
-                <strong>${totalPrice} DT</strong>
+                <div class="price-area">
 
-            </div>
+                    <span class="price">
+                        ${box.price}
+                    </span>
+
+                    <span class="transfer-fee">
+                        + ${transferFee} DT
+                        ${getText("transferFee")}
+                    </span>
+
+                    <span class="total-price">
+                        ${getText("total")}: ${totalPrice} DT
+                    </span>
+
+                </div>
 
 
-            <div class="product-actions">
+                <div class="box-buttons">
 
-                <button
-                    class="details-btn"
-                    onclick="openProductDetails(${product.id})"
-                >
-                    ${translations[currentLanguage].viewDetails}
-                </button>
+                    <button
+                        class="details-button"
+                        data-id="${box.id}"
+                    >
+                        ${getText("viewDetails")}
+                    </button>
 
 
-                <a
-                    href="${instagramURL}"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="order-btn"
-                >
-                    ${translations[currentLanguage].orderInstagram}
-                </a>
+                    <a
+                        href="${instagramURL}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="gold-button order-button"
+                    >
+                        ${getText("orderInstagram")}
+                    </a>
+
+                </div>
 
             </div>
 
@@ -1354,49 +1484,70 @@ function createProductCard(product) {
 
     `;
 
-    return card;
-}
+
+    /* =========================================
+       IMAGE SLIDESHOW
+    ========================================= */
+
+    if (box.images.length > 1) {
+
+        const image =
+            card.querySelector(
+                ".box-product-image"
+            );
+
+        let currentImage = 0;
 
 
-/* =========================================
-   RENDER PRODUCTS
-========================================= */
+        setInterval(() => {
 
-function renderProducts(
-    products,
-    container
-) {
+            currentImage =
+                (currentImage + 1) %
+                box.images.length;
 
-    if (!container) {
-        return;
+
+            image.classList.add(
+                "image-changing"
+            );
+
+
+            setTimeout(() => {
+
+                image.src =
+                    box.images[currentImage];
+
+                image.classList.remove(
+                    "image-changing"
+                );
+
+            }, 400);
+
+        }, 5000);
+
     }
 
-    Object.keys(slideshowIntervals)
-        .forEach(id => {
-            stopProductSlideshow(id);
-        });
+
+    return card;
+
+}
+/* =========================================
+   DISPLAY ACCESSORIES
+========================================= */
+
+function displayAccessories() {
+
+    const container =
+        document.getElementById("boxes-container");
+
+    if (!container) return;
 
     container.innerHTML = "";
 
+    accessoryBoxes.forEach(box => {
 
-    products.forEach(product => {
-
-        const card =
-            createProductCard(product);
-
-        container.appendChild(card);
-
-    });
-
-
-    products.forEach(product => {
-
-        if (
-            product.images &&
-            product.images.length > 1
-        ) {
-            startProductSlideshow(product);
-        }
+        container.appendChild(
+            createProductCard(box)
+        );
 
     });
 
@@ -1404,48 +1555,88 @@ function renderProducts(
 
 
 /* =========================================
-   FIND PRODUCT
+   DISPLAY COSMETICS
 ========================================= */
 
-function findProductById(productId) {
+function displayCosmetics() {
 
-    return allBoxes.find(
-        product =>
-            product.id === Number(productId)
-    );
+    const container =
+        document.getElementById("cosmetics-container");
+
+    if (!container) return;
+
+    container.innerHTML = "";
+
+    cosmeticBoxes.forEach(box => {
+
+        container.appendChild(
+            createProductCard(box)
+        );
+
+    });
+
 }
 
 
 /* =========================================
-   PRODUCT DETAILS POPUP
+   DISPLAY HIJABS
 ========================================= */
 
-function openProductDetails(productId) {
+function displayHijabs() {
 
-    const product =
-        findProductById(productId);
+    const container =
+        document.getElementById("hijabs-container");
 
-    if (!product) {
-        return;
-    }
+    if (!container) return;
 
-    const productName =
-        getProductName(product);
+    container.innerHTML = "";
 
-    const productDescription =
-        getProductDescription(product);
+    hijabBoxes.forEach(box => {
 
-    const productItems =
-        getProductItems(product);
+        container.appendChild(
+            createProductCard(box)
+        );
 
-    const totalPrice =
-        product.priceNumber + transferFee;
+    });
+
+}
+
+
+/* =========================================
+   DISPLAY ALL PRODUCTS
+========================================= */
+
+function displayAllProducts() {
+
+    displayAccessories();
+
+    displayCosmetics();
+
+    displayHijabs();
+
+}
+
+
+/* =========================================
+   PRODUCT POPUP
+========================================= */
+
+function openProductPopup(boxId) {
+
+    const box =
+        allBoxes.find(
+            product => product.id === boxId
+        );
+
+    if (!box) return;
+
+
+    const translated =
+        getProductTranslation(box);
 
 
     let popup =
-        document.getElementById(
-            "product-popup"
-        );
+        document.querySelector(".product-popup");
 
 
     if (!popup) {
@@ -1453,248 +1644,369 @@ function openProductDetails(productId) {
         popup =
             document.createElement("div");
 
-        popup.id =
-            "product-popup";
-
         popup.className =
             "product-popup";
 
-        document.body.appendChild(popup);
-    }
 
+        popup.innerHTML = `
 
-    popup.innerHTML = `
+            <div class="popup-content">
 
-        <div class="popup-overlay"
-             onclick="closeProductDetails()">
-        </div>
-
-
-        <div class="popup-content">
-
-            <button
-                class="popup-close"
-                onclick="closeProductDetails()"
-                aria-label="${translations[currentLanguage].close}"
-            >
-                &times;
-            </button>
-
-
-            <div class="popup-image-container">
-
-                <img
-                    src="${product.images[0]}"
-                    alt="${productName}"
-                    class="popup-image"
+                <button
+                    class="close-popup"
+                    type="button"
                 >
-
-            </div>
-
-
-            <div class="popup-info">
-
-                <h2>
-                    ${productName}
-                </h2>
+                    &times;
+                </button>
 
 
-                <p class="popup-description">
-                    ${productDescription}
-                </p>
+                <div class="popup-image-container">
 
-
-                <h3>
-                    ${translations[currentLanguage].whatsInside}
-                </h3>
-
-
-                <ul class="popup-items">
-
-                    ${productItems.map(item => `
-                        <li>${item}</li>
-                    `).join("")}
-
-                </ul>
-
-
-                <div class="popup-price">
-
-                    <div>
-                        <span>
-                            ${translations[currentLanguage].boxPrice}
-                        </span>
-
-                        <strong>
-                            ${product.price}
-                        </strong>
-                    </div>
-
-
-                    <div>
-                        <span>
-                            ${translations[currentLanguage].transferFeeLabel}
-                        </span>
-
-                        <strong>
-                            ${transferFee} DT
-                        </strong>
-                    </div>
-
-
-                    <div class="popup-total">
-
-                        <span>
-                            ${translations[currentLanguage].totalLabel}
-                        </span>
-
-                        <strong>
-                            ${totalPrice} DT
-                        </strong>
-
-                    </div>
+                    <img
+                        class="popup-product-image"
+                        src=""
+                        alt=""
+                    >
 
                 </div>
 
 
-                <a
-                    href="${instagramURL}"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="popup-order-btn"
-                >
-                    ${translations[currentLanguage].orderInstagram}
-                </a>
+                <div class="popup-info">
+
+                    <p class="popup-box-number"></p>
+
+                    <h2 class="popup-title"></h2>
+
+                    <p class="popup-description"></p>
+
+                    <ul class="popup-items"></ul>
+
+                    <div class="popup-price"></div>
+
+                    <a
+                        class="gold-button popup-order-button"
+                        href="${instagramURL}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        ${getText("orderInstagram")}
+                    </a>
+
+                </div>
 
             </div>
 
-        </div>
+        `;
+
+
+        document.body.appendChild(popup);
+
+
+        const closeButton =
+            popup.querySelector(
+                ".close-popup"
+            );
+
+
+        closeButton.addEventListener(
+            "click",
+            () => {
+
+                popup.classList.remove(
+                    "active"
+                );
+
+            }
+        );
+
+
+        popup.addEventListener(
+            "click",
+            event => {
+
+                if (
+                    event.target === popup
+                ) {
+
+                    popup.classList.remove(
+                        "active"
+                    );
+
+                }
+
+            }
+        );
+
+    }
+
+
+    /* =========================================
+       UPDATE POPUP CONTENT
+    ========================================= */
+
+    const image =
+        popup.querySelector(
+            ".popup-product-image"
+        );
+
+
+    const boxNumber =
+        popup.querySelector(
+            ".popup-box-number"
+        );
+
+
+    const title =
+        popup.querySelector(
+            ".popup-title"
+        );
+
+
+    const description =
+        popup.querySelector(
+            ".popup-description"
+        );
+
+
+    const itemsList =
+        popup.querySelector(
+            ".popup-items"
+        );
+
+
+    const price =
+        popup.querySelector(
+            ".popup-price"
+        );
+
+
+    image.src =
+        box.images[0];
+
+    image.alt =
+        translated.name;
+
+
+    boxNumber.textContent =
+        `${getText("box")} ${String(box.id).padStart(2, "0")}`;
+
+
+    title.textContent =
+        translated.name;
+
+
+    description.textContent =
+        translated.description;
+
+
+    itemsList.innerHTML = "";
+
+
+    translated.items.forEach(item => {
+
+        const li =
+            document.createElement("li");
+
+        li.textContent = item;
+
+        itemsList.appendChild(li);
+
+    });
+
+
+    price.innerHTML = `
+
+        <span class="price">
+            ${box.price}
+        </span>
+
+        <span class="transfer-fee">
+            + ${transferFee} DT
+            ${getText("transferFee")}
+        </span>
+
+        <span class="total-price">
+            ${getText("total")}: ${box.priceNumber + transferFee} DT
+        </span>
 
     `;
 
 
-    popup.classList.add("active");
+    popup.classList.add(
+        "active"
+    );
 
-    document.body.style.overflow =
-        "hidden";
 }
 
 
 /* =========================================
-   CLOSE PRODUCT DETAILS
-========================================= */
-
-function closeProductDetails() {
-
-    const popup =
-        document.getElementById(
-            "product-popup"
-        );
-
-    if (!popup) {
-        return;
-    }
-
-    popup.classList.remove("active");
-
-    document.body.style.overflow =
-        "";
-}
-
-
-/* =========================================
-   ESC KEY
+   DETAILS BUTTONS
 ========================================= */
 
 document.addEventListener(
-    "keydown",
+    "click",
     event => {
 
-        if (event.key === "Escape") {
-            closeProductDetails();
-        }
+        const button =
+            event.target.closest(
+                ".details-button"
+            );
+
+
+        if (!button) return;
+
+
+        const boxId =
+            Number(
+                button.dataset.id
+            );
+
+
+        openProductPopup(boxId);
 
     }
 );
 
 
 /* =========================================
-   LANGUAGE STORAGE
+   UPDATE POPUP LANGUAGE
 ========================================= */
 
-function saveLanguage(language) {
+function updatePopupLanguage() {
 
-    localStorage.setItem(
-        "sotraLanguage",
-        language
-    );
-}
-
-
-/* =========================================
-   LANGUAGE DIRECTION
-========================================= */
-
-function updateDocumentDirection() {
-
-    const html =
-        document.documentElement;
-
-    if (currentLanguage === "ar") {
-
-        html.setAttribute(
-            "dir",
-            "rtl"
+    const popup =
+        document.querySelector(
+            ".product-popup"
         );
 
-        html.setAttribute(
-            "lang",
-            "ar"
-        );
 
-    } else {
+    if (!popup) return;
 
-        html.setAttribute(
-            "dir",
-            "ltr"
-        );
 
-        html.setAttribute(
-            "lang",
-            currentLanguage
-        );
+    if (
+        !popup.classList.contains("active")
+    ) {
+
+        return;
+
     }
+
+
+    const title =
+        popup.querySelector(
+            ".popup-title"
+        );
+
+
+    if (!title) return;
+
+
+    const currentTitle =
+        title.textContent;
+
+
+    const box =
+        allBoxes.find(
+            product => {
+
+                const translation =
+                    getProductTranslation(
+                        product
+                    );
+
+                return (
+                    translation.name ===
+                    currentTitle
+                );
+
+            }
+        );
+
+
+    if (!box) return;
+
+
+    const translated =
+        getProductTranslation(box);
+
+
+    popup.querySelector(
+        ".popup-box-number"
+    ).textContent =
+        `${getText("box")} ${String(box.id).padStart(2, "0")}`;
+
+
+    popup.querySelector(
+        ".popup-title"
+    ).textContent =
+        translated.name;
+
+
+    popup.querySelector(
+        ".popup-description"
+    ).textContent =
+        translated.description;
+
+
+    const itemsList =
+        popup.querySelector(
+            ".popup-items"
+        );
+
+
+    itemsList.innerHTML = "";
+
+
+    translated.items.forEach(item => {
+
+        const li =
+            document.createElement("li");
+
+        li.textContent = item;
+
+        itemsList.appendChild(li);
+
+    });
+
+
+    popup.querySelector(
+        ".popup-order-button"
+    ).textContent =
+        getText("orderInstagram");
+
 }
+
+
 /* =========================================
    LANGUAGE SWITCHER
 ========================================= */
 
 function setupLanguageSwitcher() {
 
-    const languageButtons =
-        document.querySelectorAll(
-            "[data-language]"
+    const languageSelect =
+        document.getElementById(
+            "language-select"
         );
 
-    languageButtons.forEach(button => {
 
-        button.addEventListener(
-            "click",
-            () => {
+    if (!languageSelect) return;
 
-                const language =
-                    button.dataset.language;
 
-                if (!language) {
-                    return;
-                }
+    languageSelect.value =
+        currentLanguage;
 
-                setLanguage(language);
 
-            }
-        );
+    languageSelect.addEventListener(
+        "change",
+        event => {
 
-    });
+            setLanguage(
+                event.target.value
+            );
+
+        }
+    );
+
 }
 
 
@@ -1704,230 +2016,175 @@ function setupLanguageSwitcher() {
 
 function setLanguage(language) {
 
-    if (!translations[language]) {
+    if (
+        !translations[language]
+    ) {
+
         language = "en";
+
     }
+
 
     currentLanguage =
         language;
 
-    saveLanguage(
+
+    localStorage.setItem(
+        "sotraLanguage",
         currentLanguage
     );
 
-    updateDocumentDirection();
 
-    updatePageTranslations();
+    updateDirection();
 
-    renderAllProductSections();
+    updateStaticText();
 
-    updateActiveLanguageButton();
+    displayAllProducts();
 
-    closeProductDetails();
+    updatePopupLanguage();
+
 }
 
 
 /* =========================================
-   ACTIVE LANGUAGE BUTTON
+   UPDATE DIRECTION
 ========================================= */
 
-function updateActiveLanguageButton() {
+function updateDirection() {
 
-    const languageButtons =
-        document.querySelectorAll(
-            "[data-language]"
+    const html =
+        document.documentElement;
+
+
+    if (
+        currentLanguage === "ar"
+    ) {
+
+        html.setAttribute(
+            "lang",
+            "ar"
         );
 
-    languageButtons.forEach(button => {
+        html.setAttribute(
+            "dir",
+            "rtl"
+        );
+
+    } else {
+
+        html.setAttribute(
+            "lang",
+            currentLanguage
+        );
+
+        html.setAttribute(
+            "dir",
+            "ltr"
+        );
+
+    }
+
+}
+
+
+/* =========================================
+   UPDATE STATIC TEXT
+========================================= */
+
+function updateStaticText() {
+
+    const elements =
+        document.querySelectorAll(
+            "[data-i18n]"
+        );
+
+
+    elements.forEach(element => {
+
+        const key =
+            element.dataset.i18n;
+
+
+        const translated =
+            getText(key);
+
 
         if (
-            button.dataset.language ===
-            currentLanguage
+            translated !== undefined
         ) {
 
-            button.classList.add(
-                "active"
-            );
-
-        } else {
-
-            button.classList.remove(
-                "active"
-            );
+            element.textContent =
+                translated;
 
         }
 
     });
-}
 
 
-/* =========================================
-   PAGE TRANSLATIONS
-========================================= */
+    const languageSelect =
+        document.getElementById(
+            "language-select"
+        );
 
-function updatePageTranslations() {
 
-    const language =
-        translations[currentLanguage];
+    if (languageSelect) {
 
-    if (!language) {
-        return;
+        languageSelect.value =
+            currentLanguage;
+
     }
 
 
-    document
-        .querySelectorAll("[data-i18n]")
-        .forEach(element => {
-
-            const key =
-                element.dataset.i18n;
-
-            if (
-                Object.prototype.hasOwnProperty.call(
-                    language,
-                    key
-                )
-            ) {
-
-                element.textContent =
-                    language[key];
-
-            }
-
-        });
+    const orderButtons =
+        document.querySelectorAll(
+            ".order-button"
+        );
 
 
-    document
-        .querySelectorAll("[data-i18n-placeholder]")
-        .forEach(element => {
+    orderButtons.forEach(button => {
 
-            const key =
-                element.dataset.i18nPlaceholder;
+        button.textContent =
+            getText(
+                "orderInstagram"
+            );
 
-            if (
-                Object.prototype.hasOwnProperty.call(
-                    language,
-                    key
-                )
-            ) {
-
-                element.placeholder =
-                    language[key];
-
-            }
-
-        });
+    });
 
 
-    document
-        .querySelectorAll("[data-i18n-title]")
-        .forEach(element => {
+    const detailsButtons =
+        document.querySelectorAll(
+            ".details-button"
+        );
 
-            const key =
-                element.dataset.i18nTitle;
 
-            if (
-                Object.prototype.hasOwnProperty.call(
-                    language,
-                    key
-                )
-            ) {
+    detailsButtons.forEach(button => {
 
-                element.title =
-                    language[key];
+        button.textContent =
+            getText(
+                "viewDetails"
+            );
 
-            }
-
-        });
+    });
 
 }
-
-
 /* =========================================
-   RENDER ALL PRODUCT SECTIONS
+   MOBILE MENU
 ========================================= */
 
-function renderAllProductSections() {
+const menuToggle =
+    document.querySelector(".menu-toggle");
 
-    const accessoryContainer =
-        document.getElementById(
-            "accessories-products"
-        );
-
-    const cosmeticContainer =
-        document.getElementById(
-            "cosmetics-products"
-        );
-
-    const hijabContainer =
-        document.getElementById(
-            "hijab-products"
-        );
+const navLinks =
+    document.querySelector(".nav-links");
 
 
-    if (accessoryContainer) {
-
-        renderProducts(
-            accessoryBoxes,
-            accessoryContainer
-        );
-
-    }
-
-
-    if (cosmeticContainer) {
-
-        renderProducts(
-            cosmeticBoxes,
-            cosmeticContainer
-        );
-
-    }
-
-
-    if (hijabContainer) {
-
-        renderProducts(
-            hijabBoxes,
-            hijabContainer
-        );
-
-    }
-
-}
-
-
-/* =========================================
-   NAVIGATION / MOBILE MENU
-========================================= */
-
-function setupMobileMenu() {
-
-    const menuToggle =
-        document.querySelector(
-            ".menu-toggle"
-        );
-
-    const navMenu =
-        document.querySelector(
-            ".nav-links"
-        );
-
-
-    if (!menuToggle || !navMenu) {
-        return;
-    }
-
+if (menuToggle && navLinks) {
 
     menuToggle.addEventListener(
         "click",
         () => {
 
-            navMenu.classList.toggle(
-                "active"
-            );
-
-            menuToggle.classList.toggle(
+            navLinks.classList.toggle(
                 "active"
             );
 
@@ -1935,307 +2192,28 @@ function setupMobileMenu() {
     );
 
 
-    navMenu
-        .querySelectorAll("a")
-        .forEach(link => {
+    navLinks.querySelectorAll("a").forEach(
+        link => {
 
             link.addEventListener(
                 "click",
                 () => {
 
-                    navMenu.classList.remove(
-                        "active"
-                    );
-
-                    menuToggle.classList.remove(
+                    navLinks.classList.remove(
                         "active"
                     );
 
                 }
             );
 
-        });
-
-}
-
-
-/* =========================================
-   SMOOTH SCROLL
-========================================= */
-
-function setupSmoothScroll() {
-
-    document
-        .querySelectorAll(
-            'a[href^="#"]'
-        )
-        .forEach(link => {
-
-            link.addEventListener(
-                "click",
-                event => {
-
-                    const targetId =
-                        link.getAttribute(
-                            "href"
-                        );
-
-                    if (
-                        !targetId ||
-                        targetId === "#"
-                    ) {
-                        return;
-                    }
-
-
-                    const target =
-                        document.querySelector(
-                            targetId
-                        );
-
-                    if (!target) {
-                        return;
-                    }
-
-
-                    event.preventDefault();
-
-
-                    target.scrollIntoView({
-                        behavior: "smooth",
-                        block: "start"
-                    });
-
-                }
-            );
-
-        });
-
-}
-
-
-/* =========================================
-   INSTAGRAM LINKS
-========================================= */
-
-function setupInstagramLinks() {
-
-    document
-        .querySelectorAll(
-            ".instagram-link, .instagram-button, [data-instagram]"
-        )
-        .forEach(link => {
-
-            link.setAttribute(
-                "href",
-                instagramURL
-            );
-
-            link.setAttribute(
-                "target",
-                "_blank"
-            );
-
-            link.setAttribute(
-                "rel",
-                "noopener noreferrer"
-            );
-
-        });
-
-}
-
-
-/* =========================================
-   IMAGE ERROR HANDLING
-========================================= */
-
-function setupImageErrorHandling() {
-
-    document.addEventListener(
-        "error",
-        event => {
-
-            const element =
-                event.target;
-
-            if (
-                element &&
-                element.tagName === "IMG"
-            ) {
-
-                element.classList.add(
-                    "image-error"
-                );
-
-            }
-
-        },
-        true
-    );
-
-}
-
-
-/* =========================================
-   PAGE INITIALIZATION
-========================================= */
-
-function initializeWebsite() {
-
-    updateDocumentDirection();
-
-    setupLanguageSwitcher();
-
-    setupMobileMenu();
-
-    setupSmoothScroll();
-
-    setupInstagramLinks();
-
-    setupImageErrorHandling();
-
-    updatePageTranslations();
-
-    renderAllProductSections();
-
-    updateActiveLanguageButton();
-
-}
-
-
-/* =========================================
-   START WEBSITE
-========================================= */
-
-if (
-    document.readyState ===
-    "loading"
-) {
-
-    document.addEventListener(
-        "DOMContentLoaded",
-        initializeWebsite
-    );
-
-} else {
-
-    initializeWebsite();
-
-}
-/* =========================================
-   FINAL WEBSITE SETUP
-========================================= */
-
-document.addEventListener(
-    "DOMContentLoaded",
-    () => {
-
-        /*
-         * Make sure the saved language is valid.
-         * If not, English is used as the default.
-         */
-
-        if (!translations[currentLanguage]) {
-            currentLanguage = "en";
         }
+    );
 
-
-        /*
-         * Apply the selected language.
-         */
-
-        updateDocumentDirection();
-
-        updatePageTranslations();
-
-
-        /*
-         * Render all three product categories.
-         */
-
-        renderAllProductSections();
-
-
-        /*
-         * Activate the language selector.
-         */
-
-        setupLanguageSwitcher();
-
-        updateActiveLanguageButton();
-
-
-        /*
-         * Activate the mobile navigation.
-         */
-
-        setupMobileMenu();
-
-
-        /*
-         * Enable smooth scrolling.
-         */
-
-        setupSmoothScroll();
-
-
-        /*
-         * Make sure all Instagram buttons
-         * use the official Sotra Beauty account.
-         */
-
-        setupInstagramLinks();
-
-
-        /*
-         * Handle missing product images.
-         */
-
-        setupImageErrorHandling();
-
-    }
-);
+}
 
 
 /* =========================================
-   WINDOW EVENTS
-========================================= */
-
-window.addEventListener(
-    "beforeunload",
-    () => {
-
-        Object.keys(
-            slideshowIntervals
-        ).forEach(productId => {
-
-            stopProductSlideshow(
-                productId
-            );
-
-        });
-
-    }
-);
-
-
-/* =========================================
-   GLOBAL FUNCTIONS
-========================================= */
-
-window.openProductDetails =
-    openProductDetails;
-
-window.closeProductDetails =
-    closeProductDetails;
-
-window.setLanguage =
-    setLanguage;
-
-
-/* =========================================
-   INITIAL LANGUAGE SETUP
+   INITIALIZE WEBSITE
 ========================================= */
 
 setupLanguageSwitcher();
